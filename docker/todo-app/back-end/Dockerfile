@@ -1,10 +1,11 @@
 FROM node:14
 
+WORKDIR /todo-app/backend
 
-EXPOSE 30001
+EXPOSE 3001
 
-ADD ./node_modules.tar.gz /
+ADD /node_modules.tar.gz .
 
-COPY . /usr/local/bin/
+COPY . .
 
-CMD ["npm start"]
+CMD ["npm", "start"]
