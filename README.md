@@ -1,4 +1,4 @@
-<h1 align="center">👨‍🍳  Recipes App  📱</h1>
+<h1 align="center">📱 Docker Todo List 📱</h1>
 
 ## Description
 <p>Building</p>
