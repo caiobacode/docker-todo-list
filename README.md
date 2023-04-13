@@ -1,4 +1,4 @@
-<h1 align="center">📱 Docker Todo List 📱</h1>
+<h1 align="center">🐳 Docker Todo List 🐳</h1>
 
 <img src='./docker.png'/><br/>
 
