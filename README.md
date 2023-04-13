@@ -44,8 +44,8 @@ docker-compose up -d
 # 🔎 Additional details
 
 ### Notes
->I just do DockerFiles, Docker-Compose, and Docker comands<br/>
->The front-end and back-end applications were already done
+>I just do DockerFiles, Docker-Compose, and Docker comands.<br/>
+>The front-end and back-end applications were already done.
 
 <br>
  <details>
