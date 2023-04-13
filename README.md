@@ -1,7 +1,8 @@
 <h1 align="center">📱 Docker Todo List 📱</h1>
 
 ## Description
-<p>Building</p>
+<p>I was tasked to building the Dockerfiles and Docker Compose for a full stack application, so the entire project can be easily run without having to install all dependencies on the machine.
+</p>
 
 ## 💻 Tecnologies used
 - Docker
