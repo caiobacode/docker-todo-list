@@ -1,5 +1,7 @@
 <h1 align="center">📱 Docker Todo List 📱</h1>
 
+<img src='./docker.png'/><br/>
+
 ## Description
 <p>I was tasked to building the Dockerfiles and Docker Compose for a full stack application, so the entire project can be easily run without having to install all dependencies on the machine.
 </p>
